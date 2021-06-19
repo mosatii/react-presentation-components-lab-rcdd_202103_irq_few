@@ -11,3 +11,4 @@ ReactDOM.render(
   </div>,
   document.getElementById('root')
 );
+© 2021 GitHu
